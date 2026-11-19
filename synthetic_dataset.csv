@@ -1,0 +1,841 @@
+episode_id,turn_id,speaker,text,label
+0,0,User,"I just had lunch. Nothing fancy, but it was good.",0
+0,1,Bot,Sometimes simple is best! What did you have?,-1
+0,2,User,"Hey, how's your day going?",0
+0,3,Bot,Pretty good! Just catching up on a few things.,-1
+0,4,User,I think I'll cook something new tonight.,0
+0,5,Bot,Experimenting in the kitchen can be fun!,-1
+0,6,User,Had a nice chat with my neighbour this morning.,0
+0,7,Bot,That's always a pleasant way to start the day.,-1
+1,0,User,Had a nice chat with my neighbour this morning.,0
+1,1,Bot,That's always a pleasant way to start the day.,-1
+1,2,User,I've been learning a bit of guitar lately.,0
+1,3,Bot,That's cool! How long have you been at it?,-1
+1,4,User,"I just had lunch. Nothing fancy, but it was good.",0
+1,5,Bot,Sometimes simple is best! What did you have?,-1
+1,6,User,The weather outside is actually quite pleasant today.,0
+1,7,Bot,Sounds lovely — maybe a good day for a walk?,-1
+2,0,User,I tried meditating for ten minutes this morning.,0
+2,1,Bot,Even a few minutes can make a real difference.,-1
+2,2,User,The morning coffee was just right today.,0
+2,3,Bot,"A good coffee really sets the tone, doesn't it?",-1
+2,4,User,I finished reading that book you recommended.,0
+2,5,Bot,Oh nice! What did you think of it?,-1
+2,6,User,"Hey, how's your day going?",0
+2,7,Bot,Pretty good! Just catching up on a few things.,-1
+3,0,User,The weather outside is actually quite pleasant today.,0
+3,1,Bot,Sounds lovely — maybe a good day for a walk?,-1
+3,2,User,I organised my desk and it already feels better.,0
+3,3,Bot,A tidy space really does help with focus.,-1
+3,4,User,Had a nice chat with my neighbour this morning.,0
+3,5,Bot,That's always a pleasant way to start the day.,-1
+3,6,User,I'm thinking about starting a journal.,0
+3,7,Bot,Writing can be a great way to process things.,-1
+4,0,User,Planning a small get-together with friends.,0
+4,1,Bot,That sounds like something to look forward to!,-1
+4,2,User,"Hey, how's your day going?",0
+4,3,Bot,Pretty good! Just catching up on a few things.,-1
+4,4,User,"Just browsing the internet, nothing in particular.",0
+4,5,Bot,Sometimes that's exactly the right pace.,-1
+4,6,User,I organised my desk and it already feels better.,0
+4,7,Bot,A tidy space really does help with focus.,-1
+5,0,User,"Just browsing the internet, nothing in particular.",0
+5,1,Bot,Sometimes that's exactly the right pace.,-1
+5,2,User,The morning coffee was just right today.,0
+5,3,Bot,"A good coffee really sets the tone, doesn't it?",-1
+5,4,User,Had a nice chat with my neighbour this morning.,0
+5,5,Bot,That's always a pleasant way to start the day.,-1
+5,6,User,I finished a puzzle I've been working on.,0
+5,7,Bot,Very satisfying! Any new ones lined up?,-1
+6,0,User,I tried meditating for ten minutes this morning.,0
+6,1,Bot,Even a few minutes can make a real difference.,-1
+6,2,User,I think I'll cook something new tonight.,0
+6,3,Bot,Experimenting in the kitchen can be fun!,-1
+6,4,User,"Hey, how's your day going?",0
+6,5,Bot,Pretty good! Just catching up on a few things.,-1
+6,6,User,Any good TV shows you'd recommend?,0
+6,7,Bot,I've heard good things about several recent ones.,-1
+7,0,User,The morning coffee was just right today.,0
+7,1,Bot,"A good coffee really sets the tone, doesn't it?",-1
+7,2,User,Nothing much going on today.,0
+7,3,Bot,Sometimes a quiet day is exactly what you need.,-1
+7,4,User,I think I'll cook something new tonight.,0
+7,5,Bot,Experimenting in the kitchen can be fun!,-1
+7,6,User,I've been learning a bit of guitar lately.,0
+7,7,Bot,That's cool! How long have you been at it?,-1
+8,0,User,I organised my desk and it already feels better.,0
+8,1,Bot,A tidy space really does help with focus.,-1
+8,2,User,Nothing much going on today.,0
+8,3,Bot,Sometimes a quiet day is exactly what you need.,-1
+8,4,User,"I just had lunch. Nothing fancy, but it was good.",0
+8,5,Bot,Sometimes simple is best! What did you have?,-1
+8,6,User,The weather outside is actually quite pleasant today.,0
+8,7,Bot,Sounds lovely — maybe a good day for a walk?,-1
+9,0,User,Caught up with an old friend online earlier.,0
+9,1,Bot,That must have been nice — it's good to reconnect.,-1
+9,2,User,"I just had lunch. Nothing fancy, but it was good.",0
+9,3,Bot,Sometimes simple is best! What did you have?,-1
+9,4,User,I set a small goal for myself this week.,0
+9,5,Bot,Small goals are a great way to stay motivated.,-1
+9,6,User,"Just browsing the internet, nothing in particular.",0
+9,7,Bot,Sometimes that's exactly the right pace.,-1
+10,0,User,Planning a small get-together with friends.,0
+10,1,Bot,That sounds like something to look forward to!,-1
+10,2,User,I think I'll cook something new tonight.,0
+10,3,Bot,Experimenting in the kitchen can be fun!,-1
+10,4,User,I finished reading that book you recommended.,0
+10,5,Bot,Oh nice! What did you think of it?,-1
+10,6,User,I finished a puzzle I've been working on.,0
+10,7,Bot,Very satisfying! Any new ones lined up?,-1
+11,0,User,"Just browsing the internet, nothing in particular.",0
+11,1,Bot,Sometimes that's exactly the right pace.,-1
+11,2,User,"I just had lunch. Nothing fancy, but it was good.",0
+11,3,Bot,Sometimes simple is best! What did you have?,-1
+11,4,User,Caught up with an old friend online earlier.,0
+11,5,Bot,That must have been nice — it's good to reconnect.,-1
+11,6,User,The weather outside is actually quite pleasant today.,0
+11,7,Bot,Sounds lovely — maybe a good day for a walk?,-1
+12,0,User,"Just browsing the internet, nothing in particular.",0
+12,1,Bot,Sometimes that's exactly the right pace.,-1
+12,2,User,Just got back from a short walk in the park.,0
+12,3,Bot,Fresh air can really clear your head.,-1
+12,4,User,I set a small goal for myself this week.,0
+12,5,Bot,Small goals are a great way to stay motivated.,-1
+12,6,User,I organised my desk and it already feels better.,0
+12,7,Bot,A tidy space really does help with focus.,-1
+13,0,User,The weather outside is actually quite pleasant today.,0
+13,1,Bot,Sounds lovely — maybe a good day for a walk?,-1
+13,2,User,I finished reading that book you recommended.,0
+13,3,Bot,Oh nice! What did you think of it?,-1
+13,4,User,Had a nice chat with my neighbour this morning.,0
+13,5,Bot,That's always a pleasant way to start the day.,-1
+13,6,User,Just got back from a short walk in the park.,0
+13,7,Bot,Fresh air can really clear your head.,-1
+14,0,User,The weather outside is actually quite pleasant today.,0
+14,1,Bot,Sounds lovely — maybe a good day for a walk?,-1
+14,2,User,Had a nice chat with my neighbour this morning.,0
+14,3,Bot,That's always a pleasant way to start the day.,-1
+14,4,User,"I just had lunch. Nothing fancy, but it was good.",0
+14,5,Bot,Sometimes simple is best! What did you have?,-1
+14,6,User,Caught up with an old friend online earlier.,0
+14,7,Bot,That must have been nice — it's good to reconnect.,-1
+15,0,User,I think I'll cook something new tonight.,0
+15,1,Bot,Experimenting in the kitchen can be fun!,-1
+15,2,User,I finished a puzzle I've been working on.,0
+15,3,Bot,Very satisfying! Any new ones lined up?,-1
+15,4,User,I set a small goal for myself this week.,0
+15,5,Bot,Small goals are a great way to stay motivated.,-1
+15,6,User,Any good TV shows you'd recommend?,0
+15,7,Bot,I've heard good things about several recent ones.,-1
+16,0,User,I set a small goal for myself this week.,0
+16,1,Bot,Small goals are a great way to stay motivated.,-1
+16,2,User,Planning a small get-together with friends.,0
+16,3,Bot,That sounds like something to look forward to!,-1
+16,4,User,I organised my desk and it already feels better.,0
+16,5,Bot,A tidy space really does help with focus.,-1
+16,6,User,I think I'll cook something new tonight.,0
+16,7,Bot,Experimenting in the kitchen can be fun!,-1
+17,0,User,The weather outside is actually quite pleasant today.,0
+17,1,Bot,Sounds lovely — maybe a good day for a walk?,-1
+17,2,User,Any good TV shows you'd recommend?,0
+17,3,Bot,I've heard good things about several recent ones.,-1
+17,4,User,"Just browsing the internet, nothing in particular.",0
+17,5,Bot,Sometimes that's exactly the right pace.,-1
+17,6,User,Had a nice chat with my neighbour this morning.,0
+17,7,Bot,That's always a pleasant way to start the day.,-1
+18,0,User,Any good TV shows you'd recommend?,0
+18,1,Bot,I've heard good things about several recent ones.,-1
+18,2,User,I finished a puzzle I've been working on.,0
+18,3,Bot,Very satisfying! Any new ones lined up?,-1
+18,4,User,Caught up with an old friend online earlier.,0
+18,5,Bot,That must have been nice — it's good to reconnect.,-1
+18,6,User,I think I'll cook something new tonight.,0
+18,7,Bot,Experimenting in the kitchen can be fun!,-1
+19,0,User,"Just browsing the internet, nothing in particular.",0
+19,1,Bot,Sometimes that's exactly the right pace.,-1
+19,2,User,Had a nice chat with my neighbour this morning.,0
+19,3,Bot,That's always a pleasant way to start the day.,-1
+19,4,User,Nothing much going on today.,0
+19,5,Bot,Sometimes a quiet day is exactly what you need.,-1
+19,6,User,I finished reading that book you recommended.,0
+19,7,Bot,Oh nice! What did you think of it?,-1
+20,0,User,Had a nice chat with my neighbour this morning.,0
+20,1,Bot,That's always a pleasant way to start the day.,-1
+20,2,User,I finished reading that book you recommended.,0
+20,3,Bot,Oh nice! What did you think of it?,-1
+20,4,User,Nothing much going on today.,0
+20,5,Bot,Sometimes a quiet day is exactly what you need.,-1
+20,6,User,Caught up with an old friend online earlier.,0
+20,7,Bot,That must have been nice — it's good to reconnect.,-1
+21,0,User,I think I'll cook something new tonight.,0
+21,1,Bot,Experimenting in the kitchen can be fun!,-1
+21,2,User,The weather outside is actually quite pleasant today.,0
+21,3,Bot,Sounds lovely — maybe a good day for a walk?,-1
+21,4,User,I organised my desk and it already feels better.,0
+21,5,Bot,A tidy space really does help with focus.,-1
+21,6,User,Nothing much going on today.,0
+21,7,Bot,Sometimes a quiet day is exactly what you need.,-1
+22,0,User,I organised my desk and it already feels better.,0
+22,1,Bot,A tidy space really does help with focus.,-1
+22,2,User,"Work was steady, nothing too eventful.",0
+22,3,Bot,A calm workday can feel like a gift sometimes.,-1
+22,4,User,Caught up with an old friend online earlier.,0
+22,5,Bot,That must have been nice — it's good to reconnect.,-1
+22,6,User,I finished a puzzle I've been working on.,0
+22,7,Bot,Very satisfying! Any new ones lined up?,-1
+23,0,User,I've been learning a bit of guitar lately.,0
+23,1,Bot,That's cool! How long have you been at it?,-1
+23,2,User,I think I'll cook something new tonight.,0
+23,3,Bot,Experimenting in the kitchen can be fun!,-1
+23,4,User,Planning a small get-together with friends.,0
+23,5,Bot,That sounds like something to look forward to!,-1
+23,6,User,Had a nice chat with my neighbour this morning.,0
+23,7,Bot,That's always a pleasant way to start the day.,-1
+24,0,User,"Just browsing the internet, nothing in particular.",0
+24,1,Bot,Sometimes that's exactly the right pace.,-1
+24,2,User,Planning a small get-together with friends.,0
+24,3,Bot,That sounds like something to look forward to!,-1
+24,4,User,I think I'll cook something new tonight.,0
+24,5,Bot,Experimenting in the kitchen can be fun!,-1
+24,6,User,The morning coffee was just right today.,0
+24,7,Bot,"A good coffee really sets the tone, doesn't it?",-1
+25,0,User,I tried meditating for ten minutes this morning.,0
+25,1,Bot,Even a few minutes can make a real difference.,-1
+25,2,User,Caught up with an old friend online earlier.,0
+25,3,Bot,That must have been nice — it's good to reconnect.,-1
+25,4,User,I set a small goal for myself this week.,0
+25,5,Bot,Small goals are a great way to stay motivated.,-1
+25,6,User,Had a nice chat with my neighbour this morning.,0
+25,7,Bot,That's always a pleasant way to start the day.,-1
+26,0,User,I've been learning a bit of guitar lately.,0
+26,1,Bot,That's cool! How long have you been at it?,-1
+26,2,User,I'm thinking about starting a journal.,0
+26,3,Bot,Writing can be a great way to process things.,-1
+26,4,User,"Work was steady, nothing too eventful.",0
+26,5,Bot,A calm workday can feel like a gift sometimes.,-1
+26,6,User,The weather outside is actually quite pleasant today.,0
+26,7,Bot,Sounds lovely — maybe a good day for a walk?,-1
+27,0,User,I finished reading that book you recommended.,0
+27,1,Bot,Oh nice! What did you think of it?,-1
+27,2,User,"I just had lunch. Nothing fancy, but it was good.",0
+27,3,Bot,Sometimes simple is best! What did you have?,-1
+27,4,User,I've been learning a bit of guitar lately.,0
+27,5,Bot,That's cool! How long have you been at it?,-1
+27,6,User,Any good TV shows you'd recommend?,0
+27,7,Bot,I've heard good things about several recent ones.,-1
+28,0,User,The morning coffee was just right today.,0
+28,1,Bot,"A good coffee really sets the tone, doesn't it?",-1
+28,2,User,The weather outside is actually quite pleasant today.,0
+28,3,Bot,Sounds lovely — maybe a good day for a walk?,-1
+28,4,User,Caught up with an old friend online earlier.,0
+28,5,Bot,That must have been nice — it's good to reconnect.,-1
+28,6,User,"Just browsing the internet, nothing in particular.",0
+28,7,Bot,Sometimes that's exactly the right pace.,-1
+29,0,User,Planning a small get-together with friends.,0
+29,1,Bot,That sounds like something to look forward to!,-1
+29,2,User,I finished a puzzle I've been working on.,0
+29,3,Bot,Very satisfying! Any new ones lined up?,-1
+29,4,User,I'm thinking about starting a journal.,0
+29,5,Bot,Writing can be a great way to process things.,-1
+29,6,User,I think I'll cook something new tonight.,0
+29,7,Bot,Experimenting in the kitchen can be fun!,-1
+30,0,User,"Just browsing the internet, nothing in particular.",0
+30,1,Bot,Sometimes that's exactly the right pace.,-1
+30,2,User,"Hey, how's your day going?",0
+30,3,Bot,Pretty good! Just catching up on a few things.,-1
+30,4,User,"I just had lunch. Nothing fancy, but it was good.",0
+30,5,Bot,Sometimes simple is best! What did you have?,-1
+30,6,User,I think I'll cook something new tonight.,0
+30,7,Bot,Experimenting in the kitchen can be fun!,-1
+31,0,User,Nothing much going on today.,0
+31,1,Bot,Sometimes a quiet day is exactly what you need.,-1
+31,2,User,"I just had lunch. Nothing fancy, but it was good.",0
+31,3,Bot,Sometimes simple is best! What did you have?,-1
+31,4,User,Just got back from a short walk in the park.,0
+31,5,Bot,Fresh air can really clear your head.,-1
+31,6,User,The morning coffee was just right today.,0
+31,7,Bot,"A good coffee really sets the tone, doesn't it?",-1
+32,0,User,Any good TV shows you'd recommend?,0
+32,1,Bot,I've heard good things about several recent ones.,-1
+32,2,User,I finished a puzzle I've been working on.,0
+32,3,Bot,Very satisfying! Any new ones lined up?,-1
+32,4,User,"Hey, how's your day going?",0
+32,5,Bot,Pretty good! Just catching up on a few things.,-1
+32,6,User,I think I'll cook something new tonight.,0
+32,7,Bot,Experimenting in the kitchen can be fun!,-1
+33,0,User,I'm thinking about starting a journal.,0
+33,1,Bot,Writing can be a great way to process things.,-1
+33,2,User,Any good TV shows you'd recommend?,0
+33,3,Bot,I've heard good things about several recent ones.,-1
+33,4,User,Planning a small get-together with friends.,0
+33,5,Bot,That sounds like something to look forward to!,-1
+33,6,User,"I just had lunch. Nothing fancy, but it was good.",0
+33,7,Bot,Sometimes simple is best! What did you have?,-1
+34,0,User,Just got back from a short walk in the park.,0
+34,1,Bot,Fresh air can really clear your head.,-1
+34,2,User,I'm thinking about starting a journal.,0
+34,3,Bot,Writing can be a great way to process things.,-1
+34,4,User,I organised my desk and it already feels better.,0
+34,5,Bot,A tidy space really does help with focus.,-1
+34,6,User,I've been learning a bit of guitar lately.,0
+34,7,Bot,That's cool! How long have you been at it?,-1
+35,0,User,My heart races every time my phone buzzes.,1
+35,1,Bot,That hyper-vigilance is your nervous system on high alert. Have you been able to breathe?,-1
+35,2,User,I feel like I'm behind on everything at once.,1
+35,3,Bot,That 'behind on everything' feeling is exhausting. What's one thing you can cross off today?,-1
+35,4,User,I had a panic attack in the bathroom at work today.,1
+35,5,Bot,I'm really sorry to hear that. Are you safe right now? Talking to someone you trust can help.,-1
+35,6,User,There's just too much to juggle right now.,1
+35,7,Bot,Juggling too many things at once is a recipe for stress. What could you hand off or pause?,-1
+36,0,User,I have three deadlines tomorrow and I haven't started.,1
+36,1,Bot,That does sound overwhelming. Is there one you can tackle first?,-1
+36,2,User,I'm worried I'm going to get blamed for the delay.,1
+36,3,Bot,That anticipatory dread is exhausting. Have you been able to document your progress?,-1
+36,4,User,I keep making small mistakes because I'm so frazzled.,1
+36,5,Bot,Fatigue really does hurt accuracy. Mandatory micro-breaks could help.,-1
+36,6,User,I can't focus on anything — my mind is everywhere.,1
+36,7,Bot,Scattered attention under stress is normal. A quick five-minute walk can reset you.,-1
+37,0,User,I snapped at my partner this morning. I hate that.,1
+37,1,Bot,It happens when we're stretched thin. Acknowledging it is already a step.,-1
+37,2,User,My heart races every time my phone buzzes.,1
+37,3,Bot,That hyper-vigilance is your nervous system on high alert. Have you been able to breathe?,-1
+37,4,User,I haven't had a day off in three weeks.,1
+37,5,Bot,That kind of sustained output without rest is unsustainable. Is there any gap soon?,-1
+37,6,User,I've been skipping meals because I don't have time.,1
+37,7,Bot,Please try to eat something — even a small snack. Your brain needs fuel.,-1
+38,0,User,My boss keeps changing the requirements at the last minute.,1
+38,1,Bot,That kind of unpredictability is incredibly frustrating.,-1
+38,2,User,I've been skipping meals because I don't have time.,1
+38,3,Bot,Please try to eat something — even a small snack. Your brain needs fuel.,-1
+38,4,User,I can't sleep — I keep running through my to-do list.,1
+38,5,Bot,Sleep deprivation on top of stress is really hard. Have you tried a short wind-down routine?,-1
+38,6,User,I had a panic attack in the bathroom at work today.,1
+38,7,Bot,I'm really sorry to hear that. Are you safe right now? Talking to someone you trust can help.,-1
+39,0,User,I keep making small mistakes because I'm so frazzled.,1
+39,1,Bot,Fatigue really does hurt accuracy. Mandatory micro-breaks could help.,-1
+39,2,User,I can't sleep — I keep running through my to-do list.,1
+39,3,Bot,Sleep deprivation on top of stress is really hard. Have you tried a short wind-down routine?,-1
+39,4,User,I had a panic attack in the bathroom at work today.,1
+39,5,Bot,I'm really sorry to hear that. Are you safe right now? Talking to someone you trust can help.,-1
+39,6,User,Everything is piling up and I don't know where to start.,1
+39,7,Bot,Breaking things into tiny pieces can help. What's the single most urgent task?,-1
+40,0,User,Everything is piling up and I don't know where to start.,1
+40,1,Bot,Breaking things into tiny pieces can help. What's the single most urgent task?,-1
+40,2,User,I keep making small mistakes because I'm so frazzled.,1
+40,3,Bot,Fatigue really does hurt accuracy. Mandatory micro-breaks could help.,-1
+40,4,User,I had a panic attack in the bathroom at work today.,1
+40,5,Bot,I'm really sorry to hear that. Are you safe right now? Talking to someone you trust can help.,-1
+40,6,User,I feel like I'm behind on everything at once.,1
+40,7,Bot,That 'behind on everything' feeling is exhausting. What's one thing you can cross off today?,-1
+41,0,User,My inbox has 200 unread emails and it's growing.,1
+41,1,Bot,Email avalanche is real. Could you carve out 20 minutes to triage it?,-1
+41,2,User,There's just too much to juggle right now.,1
+41,3,Bot,Juggling too many things at once is a recipe for stress. What could you hand off or pause?,-1
+41,4,User,I think I over-committed and now I'm drowning.,1
+41,5,Bot,Recognising that is important. Could you renegotiate any of those commitments?,-1
+41,6,User,The project is going to fail because of someone else's mistake.,1
+41,7,Bot,That helplessness when it's out of your control is really stressful.,-1
+42,0,User,I had a panic attack in the bathroom at work today.,1
+42,1,Bot,I'm really sorry to hear that. Are you safe right now? Talking to someone you trust can help.,-1
+42,2,User,The project is going to fail because of someone else's mistake.,1
+42,3,Bot,That helplessness when it's out of your control is really stressful.,-1
+42,4,User,I haven't had a day off in three weeks.,1
+42,5,Bot,That kind of sustained output without rest is unsustainable. Is there any gap soon?,-1
+42,6,User,I'm supposed to present tomorrow and I'm panicking.,1
+42,7,Bot,Presentation anxiety is really common. Would running through it once help?,-1
+43,0,User,My heart races every time my phone buzzes.,1
+43,1,Bot,That hyper-vigilance is your nervous system on high alert. Have you been able to breathe?,-1
+43,2,User,I feel like everyone else is coping fine but me.,1
+43,3,Bot,That perception is rarely accurate — many people hide their stress well.,-1
+43,4,User,There's just too much to juggle right now.,1
+43,5,Bot,Juggling too many things at once is a recipe for stress. What could you hand off or pause?,-1
+43,6,User,My team is relying on me and I'm running on empty.,1
+43,7,Bot,It's hard to give from an empty cup. Please try to rest tonight.,-1
+44,0,User,I snapped at my partner this morning. I hate that.,1
+44,1,Bot,It happens when we're stretched thin. Acknowledging it is already a step.,-1
+44,2,User,I've been skipping meals because I don't have time.,1
+44,3,Bot,Please try to eat something — even a small snack. Your brain needs fuel.,-1
+44,4,User,My team is relying on me and I'm running on empty.,1
+44,5,Bot,It's hard to give from an empty cup. Please try to rest tonight.,-1
+44,6,User,I can't sleep — I keep running through my to-do list.,1
+44,7,Bot,Sleep deprivation on top of stress is really hard. Have you tried a short wind-down routine?,-1
+45,0,User,I'm worried I'm going to get blamed for the delay.,1
+45,1,Bot,That anticipatory dread is exhausting. Have you been able to document your progress?,-1
+45,2,User,I have three deadlines tomorrow and I haven't started.,1
+45,3,Bot,That does sound overwhelming. Is there one you can tackle first?,-1
+45,4,User,I had a panic attack in the bathroom at work today.,1
+45,5,Bot,I'm really sorry to hear that. Are you safe right now? Talking to someone you trust can help.,-1
+45,6,User,I've been skipping meals because I don't have time.,1
+45,7,Bot,Please try to eat something — even a small snack. Your brain needs fuel.,-1
+46,0,User,My team is relying on me and I'm running on empty.,1
+46,1,Bot,It's hard to give from an empty cup. Please try to rest tonight.,-1
+46,2,User,I've been skipping meals because I don't have time.,1
+46,3,Bot,Please try to eat something — even a small snack. Your brain needs fuel.,-1
+46,4,User,I have three deadlines tomorrow and I haven't started.,1
+46,5,Bot,That does sound overwhelming. Is there one you can tackle first?,-1
+46,6,User,I can't sleep — I keep running through my to-do list.,1
+46,7,Bot,Sleep deprivation on top of stress is really hard. Have you tried a short wind-down routine?,-1
+47,0,User,My boss keeps changing the requirements at the last minute.,1
+47,1,Bot,That kind of unpredictability is incredibly frustrating.,-1
+47,2,User,I've been skipping meals because I don't have time.,1
+47,3,Bot,Please try to eat something — even a small snack. Your brain needs fuel.,-1
+47,4,User,I can't sleep — I keep running through my to-do list.,1
+47,5,Bot,Sleep deprivation on top of stress is really hard. Have you tried a short wind-down routine?,-1
+47,6,User,I can't focus on anything — my mind is everywhere.,1
+47,7,Bot,Scattered attention under stress is normal. A quick five-minute walk can reset you.,-1
+48,0,User,I'm worried I'm going to get blamed for the delay.,1
+48,1,Bot,That anticipatory dread is exhausting. Have you been able to document your progress?,-1
+48,2,User,I can't sleep — I keep running through my to-do list.,1
+48,3,Bot,Sleep deprivation on top of stress is really hard. Have you tried a short wind-down routine?,-1
+48,4,User,There's just too much to juggle right now.,1
+48,5,Bot,Juggling too many things at once is a recipe for stress. What could you hand off or pause?,-1
+48,6,User,I've been skipping meals because I don't have time.,1
+48,7,Bot,Please try to eat something — even a small snack. Your brain needs fuel.,-1
+49,0,User,My inbox has 200 unread emails and it's growing.,1
+49,1,Bot,Email avalanche is real. Could you carve out 20 minutes to triage it?,-1
+49,2,User,I keep making small mistakes because I'm so frazzled.,1
+49,3,Bot,Fatigue really does hurt accuracy. Mandatory micro-breaks could help.,-1
+49,4,User,The project is going to fail because of someone else's mistake.,1
+49,5,Bot,That helplessness when it's out of your control is really stressful.,-1
+49,6,User,Everything is piling up and I don't know where to start.,1
+49,7,Bot,Breaking things into tiny pieces can help. What's the single most urgent task?,-1
+50,0,User,My team is relying on me and I'm running on empty.,1
+50,1,Bot,It's hard to give from an empty cup. Please try to rest tonight.,-1
+50,2,User,I can't focus on anything — my mind is everywhere.,1
+50,3,Bot,Scattered attention under stress is normal. A quick five-minute walk can reset you.,-1
+50,4,User,I keep making small mistakes because I'm so frazzled.,1
+50,5,Bot,Fatigue really does hurt accuracy. Mandatory micro-breaks could help.,-1
+50,6,User,I've been skipping meals because I don't have time.,1
+50,7,Bot,Please try to eat something — even a small snack. Your brain needs fuel.,-1
+51,0,User,I keep making small mistakes because I'm so frazzled.,1
+51,1,Bot,Fatigue really does hurt accuracy. Mandatory micro-breaks could help.,-1
+51,2,User,I think I over-committed and now I'm drowning.,1
+51,3,Bot,Recognising that is important. Could you renegotiate any of those commitments?,-1
+51,4,User,The project is going to fail because of someone else's mistake.,1
+51,5,Bot,That helplessness when it's out of your control is really stressful.,-1
+51,6,User,I snapped at my partner this morning. I hate that.,1
+51,7,Bot,It happens when we're stretched thin. Acknowledging it is already a step.,-1
+52,0,User,I snapped at my partner this morning. I hate that.,1
+52,1,Bot,It happens when we're stretched thin. Acknowledging it is already a step.,-1
+52,2,User,I think I over-committed and now I'm drowning.,1
+52,3,Bot,Recognising that is important. Could you renegotiate any of those commitments?,-1
+52,4,User,My heart races every time my phone buzzes.,1
+52,5,Bot,That hyper-vigilance is your nervous system on high alert. Have you been able to breathe?,-1
+52,6,User,My team is relying on me and I'm running on empty.,1
+52,7,Bot,It's hard to give from an empty cup. Please try to rest tonight.,-1
+53,0,User,I think I over-committed and now I'm drowning.,1
+53,1,Bot,Recognising that is important. Could you renegotiate any of those commitments?,-1
+53,2,User,I feel like everyone else is coping fine but me.,1
+53,3,Bot,That perception is rarely accurate — many people hide their stress well.,-1
+53,4,User,My boss keeps changing the requirements at the last minute.,1
+53,5,Bot,That kind of unpredictability is incredibly frustrating.,-1
+53,6,User,I snapped at my partner this morning. I hate that.,1
+53,7,Bot,It happens when we're stretched thin. Acknowledging it is already a step.,-1
+54,0,User,My boss keeps changing the requirements at the last minute.,1
+54,1,Bot,That kind of unpredictability is incredibly frustrating.,-1
+54,2,User,I'm supposed to present tomorrow and I'm panicking.,1
+54,3,Bot,Presentation anxiety is really common. Would running through it once help?,-1
+54,4,User,I'm worried I'm going to get blamed for the delay.,1
+54,5,Bot,That anticipatory dread is exhausting. Have you been able to document your progress?,-1
+54,6,User,I snapped at my partner this morning. I hate that.,1
+54,7,Bot,It happens when we're stretched thin. Acknowledging it is already a step.,-1
+55,0,User,I've been skipping meals because I don't have time.,1
+55,1,Bot,Please try to eat something — even a small snack. Your brain needs fuel.,-1
+55,2,User,The project is going to fail because of someone else's mistake.,1
+55,3,Bot,That helplessness when it's out of your control is really stressful.,-1
+55,4,User,My team is relying on me and I'm running on empty.,1
+55,5,Bot,It's hard to give from an empty cup. Please try to rest tonight.,-1
+55,6,User,I feel like everyone else is coping fine but me.,1
+55,7,Bot,That perception is rarely accurate — many people hide their stress well.,-1
+56,0,User,Everything is piling up and I don't know where to start.,1
+56,1,Bot,Breaking things into tiny pieces can help. What's the single most urgent task?,-1
+56,2,User,I think I over-committed and now I'm drowning.,1
+56,3,Bot,Recognising that is important. Could you renegotiate any of those commitments?,-1
+56,4,User,I feel like I'm behind on everything at once.,1
+56,5,Bot,That 'behind on everything' feeling is exhausting. What's one thing you can cross off today?,-1
+56,6,User,My inbox has 200 unread emails and it's growing.,1
+56,7,Bot,Email avalanche is real. Could you carve out 20 minutes to triage it?,-1
+57,0,User,I feel like everyone else is coping fine but me.,1
+57,1,Bot,That perception is rarely accurate — many people hide their stress well.,-1
+57,2,User,I've been skipping meals because I don't have time.,1
+57,3,Bot,Please try to eat something — even a small snack. Your brain needs fuel.,-1
+57,4,User,I can't sleep — I keep running through my to-do list.,1
+57,5,Bot,Sleep deprivation on top of stress is really hard. Have you tried a short wind-down routine?,-1
+57,6,User,I can't focus on anything — my mind is everywhere.,1
+57,7,Bot,Scattered attention under stress is normal. A quick five-minute walk can reset you.,-1
+58,0,User,I had a panic attack in the bathroom at work today.,1
+58,1,Bot,I'm really sorry to hear that. Are you safe right now? Talking to someone you trust can help.,-1
+58,2,User,I snapped at my partner this morning. I hate that.,1
+58,3,Bot,It happens when we're stretched thin. Acknowledging it is already a step.,-1
+58,4,User,My boss keeps changing the requirements at the last minute.,1
+58,5,Bot,That kind of unpredictability is incredibly frustrating.,-1
+58,6,User,I have three deadlines tomorrow and I haven't started.,1
+58,7,Bot,That does sound overwhelming. Is there one you can tackle first?,-1
+59,0,User,I can't sleep — I keep running through my to-do list.,1
+59,1,Bot,Sleep deprivation on top of stress is really hard. Have you tried a short wind-down routine?,-1
+59,2,User,I've been skipping meals because I don't have time.,1
+59,3,Bot,Please try to eat something — even a small snack. Your brain needs fuel.,-1
+59,4,User,I feel like I'm behind on everything at once.,1
+59,5,Bot,That 'behind on everything' feeling is exhausting. What's one thing you can cross off today?,-1
+59,6,User,I think I over-committed and now I'm drowning.,1
+59,7,Bot,Recognising that is important. Could you renegotiate any of those commitments?,-1
+60,0,User,I keep making small mistakes because I'm so frazzled.,1
+60,1,Bot,Fatigue really does hurt accuracy. Mandatory micro-breaks could help.,-1
+60,2,User,I can't focus on anything — my mind is everywhere.,1
+60,3,Bot,Scattered attention under stress is normal. A quick five-minute walk can reset you.,-1
+60,4,User,The project is going to fail because of someone else's mistake.,1
+60,5,Bot,That helplessness when it's out of your control is really stressful.,-1
+60,6,User,I'm supposed to present tomorrow and I'm panicking.,1
+60,7,Bot,Presentation anxiety is really common. Would running through it once help?,-1
+61,0,User,My boss keeps changing the requirements at the last minute.,1
+61,1,Bot,That kind of unpredictability is incredibly frustrating.,-1
+61,2,User,I feel like I'm behind on everything at once.,1
+61,3,Bot,That 'behind on everything' feeling is exhausting. What's one thing you can cross off today?,-1
+61,4,User,I'm supposed to present tomorrow and I'm panicking.,1
+61,5,Bot,Presentation anxiety is really common. Would running through it once help?,-1
+61,6,User,I have three deadlines tomorrow and I haven't started.,1
+61,7,Bot,That does sound overwhelming. Is there one you can tackle first?,-1
+62,0,User,I'm supposed to present tomorrow and I'm panicking.,1
+62,1,Bot,Presentation anxiety is really common. Would running through it once help?,-1
+62,2,User,My inbox has 200 unread emails and it's growing.,1
+62,3,Bot,Email avalanche is real. Could you carve out 20 minutes to triage it?,-1
+62,4,User,I feel like everyone else is coping fine but me.,1
+62,5,Bot,That perception is rarely accurate — many people hide their stress well.,-1
+62,6,User,I haven't had a day off in three weeks.,1
+62,7,Bot,That kind of sustained output without rest is unsustainable. Is there any gap soon?,-1
+63,0,User,I think I over-committed and now I'm drowning.,1
+63,1,Bot,Recognising that is important. Could you renegotiate any of those commitments?,-1
+63,2,User,I had a panic attack in the bathroom at work today.,1
+63,3,Bot,I'm really sorry to hear that. Are you safe right now? Talking to someone you trust can help.,-1
+63,4,User,I keep making small mistakes because I'm so frazzled.,1
+63,5,Bot,Fatigue really does hurt accuracy. Mandatory micro-breaks could help.,-1
+63,6,User,Everything is piling up and I don't know where to start.,1
+63,7,Bot,Breaking things into tiny pieces can help. What's the single most urgent task?,-1
+64,0,User,The project is going to fail because of someone else's mistake.,1
+64,1,Bot,That helplessness when it's out of your control is really stressful.,-1
+64,2,User,I haven't had a day off in three weeks.,1
+64,3,Bot,That kind of sustained output without rest is unsustainable. Is there any gap soon?,-1
+64,4,User,I can't focus on anything — my mind is everywhere.,1
+64,5,Bot,Scattered attention under stress is normal. A quick five-minute walk can reset you.,-1
+64,6,User,My boss keeps changing the requirements at the last minute.,1
+64,7,Bot,That kind of unpredictability is incredibly frustrating.,-1
+65,0,User,My team is relying on me and I'm running on empty.,1
+65,1,Bot,It's hard to give from an empty cup. Please try to rest tonight.,-1
+65,2,User,I had a panic attack in the bathroom at work today.,1
+65,3,Bot,I'm really sorry to hear that. Are you safe right now? Talking to someone you trust can help.,-1
+65,4,User,My boss keeps changing the requirements at the last minute.,1
+65,5,Bot,That kind of unpredictability is incredibly frustrating.,-1
+65,6,User,I'm worried I'm going to get blamed for the delay.,1
+65,7,Bot,That anticipatory dread is exhausting. Have you been able to document your progress?,-1
+66,0,User,My boss keeps changing the requirements at the last minute.,1
+66,1,Bot,That kind of unpredictability is incredibly frustrating.,-1
+66,2,User,I can't focus on anything — my mind is everywhere.,1
+66,3,Bot,Scattered attention under stress is normal. A quick five-minute walk can reset you.,-1
+66,4,User,I keep making small mistakes because I'm so frazzled.,1
+66,5,Bot,Fatigue really does hurt accuracy. Mandatory micro-breaks could help.,-1
+66,6,User,There's just too much to juggle right now.,1
+66,7,Bot,Juggling too many things at once is a recipe for stress. What could you hand off or pause?,-1
+67,0,User,There's just too much to juggle right now.,1
+67,1,Bot,Juggling too many things at once is a recipe for stress. What could you hand off or pause?,-1
+67,2,User,I feel like I'm behind on everything at once.,1
+67,3,Bot,That 'behind on everything' feeling is exhausting. What's one thing you can cross off today?,-1
+67,4,User,My boss keeps changing the requirements at the last minute.,1
+67,5,Bot,That kind of unpredictability is incredibly frustrating.,-1
+67,6,User,I can't focus on anything — my mind is everywhere.,1
+67,7,Bot,Scattered attention under stress is normal. A quick five-minute walk can reset you.,-1
+68,0,User,I can't sleep — I keep running through my to-do list.,1
+68,1,Bot,Sleep deprivation on top of stress is really hard. Have you tried a short wind-down routine?,-1
+68,2,User,I feel like I'm behind on everything at once.,1
+68,3,Bot,That 'behind on everything' feeling is exhausting. What's one thing you can cross off today?,-1
+68,4,User,I can't focus on anything — my mind is everywhere.,1
+68,5,Bot,Scattered attention under stress is normal. A quick five-minute walk can reset you.,-1
+68,6,User,I had a panic attack in the bathroom at work today.,1
+68,7,Bot,I'm really sorry to hear that. Are you safe right now? Talking to someone you trust can help.,-1
+69,0,User,I've been skipping meals because I don't have time.,1
+69,1,Bot,Please try to eat something — even a small snack. Your brain needs fuel.,-1
+69,2,User,I'm supposed to present tomorrow and I'm panicking.,1
+69,3,Bot,Presentation anxiety is really common. Would running through it once help?,-1
+69,4,User,I snapped at my partner this morning. I hate that.,1
+69,5,Bot,It happens when we're stretched thin. Acknowledging it is already a step.,-1
+69,6,User,I can't focus on anything — my mind is everywhere.,1
+69,7,Bot,Scattered attention under stress is normal. A quick five-minute walk can reset you.,-1
+70,0,User,I don't see a future for myself.,2
+70,1,Bot,"When the future looks blank, it can be frightening. Please consider reaching out to a counsellor.",-1
+70,2,User,Everything feels grey lately. Nothing interests me.,2
+70,3,Bot,That emotional numbness is really painful. How long have you been feeling this way?,-1
+70,4,User,I cancelled on my friends again. I just couldn't face it.,2
+70,5,Bot,Isolation can make things feel heavier. It's okay — is there one small step you could take?,-1
+70,6,User,Getting through a single day feels like an enormous effort.,2
+70,7,Bot,"When each day feels like climbing a mountain, even showing up takes real courage.",-1
+71,0,User,I don't see a future for myself.,2
+71,1,Bot,"When the future looks blank, it can be frightening. Please consider reaching out to a counsellor.",-1
+71,2,User,"I'm here but I'm not really here, if that makes sense.",2
+71,3,Bot,That detachment makes complete sense. You deserve real support right now.,-1
+71,4,User,I've lost a lot of weight without trying. I just forget to eat.,2
+71,5,Bot,Significant unintended weight loss is something worth mentioning to a doctor.,-1
+71,6,User,"I don't enjoy anything anymore, even things that used to excite me.",2
+71,7,Bot,Anhedonia — losing the ability to feel pleasure — is one of the harder symptoms.,-1
+72,0,User,I feel completely disconnected from the people around me.,2
+72,1,Bot,That sense of disconnection is really lonely. Have you been able to share this with anyone?,-1
+72,2,User,I wake up already exhausted. There's no reason to feel this tired.,2
+72,3,Bot,That kind of fatigue that sleep doesn't fix is worth paying attention to.,-1
+72,4,User,"I don't enjoy anything anymore, even things that used to excite me.",2
+72,5,Bot,Anhedonia — losing the ability to feel pleasure — is one of the harder symptoms.,-1
+72,6,User,I keep replaying old mistakes. I can't let them go.,2
+72,7,Bot,"Rumination is cruel and tiring. Those events are in the past, even if your mind keeps visiting them.",-1
+73,0,User,I feel completely disconnected from the people around me.,2
+73,1,Bot,That sense of disconnection is really lonely. Have you been able to share this with anyone?,-1
+73,2,User,I feel invisible. Like I could disappear and nobody would notice.,2
+73,3,Bot,"That feeling of invisibility is painful. I notice you, and I'm glad you're talking.",-1
+73,4,User,I barely ate today. Food just doesn't appeal to me.,2
+73,5,Bot,Appetite changes are really common with low mood. Can you manage something small?,-1
+73,6,User,Some days I feel like things will never get better.,2
+73,7,Bot,I'm glad you said that out loud. It's important to have support when you're feeling that way.,-1
+74,0,User,I haven't responded to messages in days. I don't have the energy.,2
+74,1,Bot,Low energy for social interaction is very common with depression. No judgement here.,-1
+74,2,User,"I don't enjoy anything anymore, even things that used to excite me.",2
+74,3,Bot,Anhedonia — losing the ability to feel pleasure — is one of the harder symptoms.,-1
+74,4,User,I cancelled on my friends again. I just couldn't face it.,2
+74,5,Bot,Isolation can make things feel heavier. It's okay — is there one small step you could take?,-1
+74,6,User,I don't really see the point in getting out of bed anymore.,2
+74,7,Bot,I hear you. That kind of heaviness is really difficult. Would you like to talk about it?,-1
+75,0,User,I haven't responded to messages in days. I don't have the energy.,2
+75,1,Bot,Low energy for social interaction is very common with depression. No judgement here.,-1
+75,2,User,I don't see a future for myself.,2
+75,3,Bot,"When the future looks blank, it can be frightening. Please consider reaching out to a counsellor.",-1
+75,4,User,I've been thinking a lot about how much of a burden I am.,2
+75,5,Bot,"You are not a burden. Those thoughts can be really convincing, but they aren't facts.",-1
+75,6,User,I cancelled on my friends again. I just couldn't face it.,2
+75,7,Bot,Isolation can make things feel heavier. It's okay — is there one small step you could take?,-1
+76,0,User,I feel like a hollow shell of who I used to be.,2
+76,1,Bot,That loss of self is one of the most painful parts. But the person you were is still there.,-1
+76,2,User,I wake up already exhausted. There's no reason to feel this tired.,2
+76,3,Bot,That kind of fatigue that sleep doesn't fix is worth paying attention to.,-1
+76,4,User,I've lost a lot of weight without trying. I just forget to eat.,2
+76,5,Bot,Significant unintended weight loss is something worth mentioning to a doctor.,-1
+76,6,User,I feel completely disconnected from the people around me.,2
+76,7,Bot,That sense of disconnection is really lonely. Have you been able to share this with anyone?,-1
+77,0,User,I barely ate today. Food just doesn't appeal to me.,2
+77,1,Bot,Appetite changes are really common with low mood. Can you manage something small?,-1
+77,2,User,I've been crying and I'm not even sure why.,2
+77,3,Bot,Sometimes sadness doesn't need a clear reason. It's still real and valid.,-1
+77,4,User,I cancelled on my friends again. I just couldn't face it.,2
+77,5,Bot,Isolation can make things feel heavier. It's okay — is there one small step you could take?,-1
+77,6,User,I keep replaying old mistakes. I can't let them go.,2
+77,7,Bot,"Rumination is cruel and tiring. Those events are in the past, even if your mind keeps visiting them.",-1
+78,0,User,I've been crying and I'm not even sure why.,2
+78,1,Bot,Sometimes sadness doesn't need a clear reason. It's still real and valid.,-1
+78,2,User,Some days I feel like things will never get better.,2
+78,3,Bot,I'm glad you said that out loud. It's important to have support when you're feeling that way.,-1
+78,4,User,I used to love painting but I haven't touched it in months.,2
+78,5,Bot,Losing interest in things you loved is really hard. No pressure — it can return.,-1
+78,6,User,I haven't responded to messages in days. I don't have the energy.,2
+78,7,Bot,Low energy for social interaction is very common with depression. No judgement here.,-1
+79,0,User,I feel like a hollow shell of who I used to be.,2
+79,1,Bot,That loss of self is one of the most painful parts. But the person you were is still there.,-1
+79,2,User,Some days I feel like things will never get better.,2
+79,3,Bot,I'm glad you said that out loud. It's important to have support when you're feeling that way.,-1
+79,4,User,I've lost a lot of weight without trying. I just forget to eat.,2
+79,5,Bot,Significant unintended weight loss is something worth mentioning to a doctor.,-1
+79,6,User,I don't really see the point in getting out of bed anymore.,2
+79,7,Bot,I hear you. That kind of heaviness is really difficult. Would you like to talk about it?,-1
+80,0,User,I feel like a hollow shell of who I used to be.,2
+80,1,Bot,That loss of self is one of the most painful parts. But the person you were is still there.,-1
+80,2,User,Some days I feel like things will never get better.,2
+80,3,Bot,I'm glad you said that out loud. It's important to have support when you're feeling that way.,-1
+80,4,User,I've been thinking a lot about how much of a burden I am.,2
+80,5,Bot,"You are not a burden. Those thoughts can be really convincing, but they aren't facts.",-1
+80,6,User,I barely ate today. Food just doesn't appeal to me.,2
+80,7,Bot,Appetite changes are really common with low mood. Can you manage something small?,-1
+81,0,User,I feel completely disconnected from the people around me.,2
+81,1,Bot,That sense of disconnection is really lonely. Have you been able to share this with anyone?,-1
+81,2,User,I've been thinking a lot about how much of a burden I am.,2
+81,3,Bot,"You are not a burden. Those thoughts can be really convincing, but they aren't facts.",-1
+81,4,User,I don't see a future for myself.,2
+81,5,Bot,"When the future looks blank, it can be frightening. Please consider reaching out to a counsellor.",-1
+81,6,User,I barely ate today. Food just doesn't appeal to me.,2
+81,7,Bot,Appetite changes are really common with low mood. Can you manage something small?,-1
+82,0,User,I feel completely disconnected from the people around me.,2
+82,1,Bot,That sense of disconnection is really lonely. Have you been able to share this with anyone?,-1
+82,2,User,Some days I feel like things will never get better.,2
+82,3,Bot,I'm glad you said that out loud. It's important to have support when you're feeling that way.,-1
+82,4,User,I wake up already exhausted. There's no reason to feel this tired.,2
+82,5,Bot,That kind of fatigue that sleep doesn't fix is worth paying attention to.,-1
+82,6,User,"I don't enjoy anything anymore, even things that used to excite me.",2
+82,7,Bot,Anhedonia — losing the ability to feel pleasure — is one of the harder symptoms.,-1
+83,0,User,I wake up already exhausted. There's no reason to feel this tired.,2
+83,1,Bot,That kind of fatigue that sleep doesn't fix is worth paying attention to.,-1
+83,2,User,I feel completely disconnected from the people around me.,2
+83,3,Bot,That sense of disconnection is really lonely. Have you been able to share this with anyone?,-1
+83,4,User,I've lost a lot of weight without trying. I just forget to eat.,2
+83,5,Bot,Significant unintended weight loss is something worth mentioning to a doctor.,-1
+83,6,User,Everything I try seems to fail. Maybe I'm just not good enough.,2
+83,7,Bot,"Depression distorts our view of ourselves. Those thoughts are symptoms, not facts.",-1
+84,0,User,I feel completely disconnected from the people around me.,2
+84,1,Bot,That sense of disconnection is really lonely. Have you been able to share this with anyone?,-1
+84,2,User,Everything feels grey lately. Nothing interests me.,2
+84,3,Bot,That emotional numbness is really painful. How long have you been feeling this way?,-1
+84,4,User,I cancelled on my friends again. I just couldn't face it.,2
+84,5,Bot,Isolation can make things feel heavier. It's okay — is there one small step you could take?,-1
+84,6,User,Getting through a single day feels like an enormous effort.,2
+84,7,Bot,"When each day feels like climbing a mountain, even showing up takes real courage.",-1
+85,0,User,I feel completely disconnected from the people around me.,2
+85,1,Bot,That sense of disconnection is really lonely. Have you been able to share this with anyone?,-1
+85,2,User,Everything feels grey lately. Nothing interests me.,2
+85,3,Bot,That emotional numbness is really painful. How long have you been feeling this way?,-1
+85,4,User,I don't really see the point in getting out of bed anymore.,2
+85,5,Bot,I hear you. That kind of heaviness is really difficult. Would you like to talk about it?,-1
+85,6,User,"I don't enjoy anything anymore, even things that used to excite me.",2
+85,7,Bot,Anhedonia — losing the ability to feel pleasure — is one of the harder symptoms.,-1
+86,0,User,I barely ate today. Food just doesn't appeal to me.,2
+86,1,Bot,Appetite changes are really common with low mood. Can you manage something small?,-1
+86,2,User,I feel completely disconnected from the people around me.,2
+86,3,Bot,That sense of disconnection is really lonely. Have you been able to share this with anyone?,-1
+86,4,User,I used to love painting but I haven't touched it in months.,2
+86,5,Bot,Losing interest in things you loved is really hard. No pressure — it can return.,-1
+86,6,User,I haven't responded to messages in days. I don't have the energy.,2
+86,7,Bot,Low energy for social interaction is very common with depression. No judgement here.,-1
+87,0,User,I feel like a hollow shell of who I used to be.,2
+87,1,Bot,That loss of self is one of the most painful parts. But the person you were is still there.,-1
+87,2,User,Getting through a single day feels like an enormous effort.,2
+87,3,Bot,"When each day feels like climbing a mountain, even showing up takes real courage.",-1
+87,4,User,"I'm here but I'm not really here, if that makes sense.",2
+87,5,Bot,That detachment makes complete sense. You deserve real support right now.,-1
+87,6,User,I don't really see the point in getting out of bed anymore.,2
+87,7,Bot,I hear you. That kind of heaviness is really difficult. Would you like to talk about it?,-1
+88,0,User,I've been thinking a lot about how much of a burden I am.,2
+88,1,Bot,"You are not a burden. Those thoughts can be really convincing, but they aren't facts.",-1
+88,2,User,I cancelled on my friends again. I just couldn't face it.,2
+88,3,Bot,Isolation can make things feel heavier. It's okay — is there one small step you could take?,-1
+88,4,User,I barely ate today. Food just doesn't appeal to me.,2
+88,5,Bot,Appetite changes are really common with low mood. Can you manage something small?,-1
+88,6,User,Everything feels grey lately. Nothing interests me.,2
+88,7,Bot,That emotional numbness is really painful. How long have you been feeling this way?,-1
+89,0,User,I've been crying and I'm not even sure why.,2
+89,1,Bot,Sometimes sadness doesn't need a clear reason. It's still real and valid.,-1
+89,2,User,I don't see a future for myself.,2
+89,3,Bot,"When the future looks blank, it can be frightening. Please consider reaching out to a counsellor.",-1
+89,4,User,I feel like a hollow shell of who I used to be.,2
+89,5,Bot,That loss of self is one of the most painful parts. But the person you were is still there.,-1
+89,6,User,I barely ate today. Food just doesn't appeal to me.,2
+89,7,Bot,Appetite changes are really common with low mood. Can you manage something small?,-1
+90,0,User,Getting through a single day feels like an enormous effort.,2
+90,1,Bot,"When each day feels like climbing a mountain, even showing up takes real courage.",-1
+90,2,User,I barely ate today. Food just doesn't appeal to me.,2
+90,3,Bot,Appetite changes are really common with low mood. Can you manage something small?,-1
+90,4,User,Everything feels grey lately. Nothing interests me.,2
+90,5,Bot,That emotional numbness is really painful. How long have you been feeling this way?,-1
+90,6,User,Some days I feel like things will never get better.,2
+90,7,Bot,I'm glad you said that out loud. It's important to have support when you're feeling that way.,-1
+91,0,User,I've been crying and I'm not even sure why.,2
+91,1,Bot,Sometimes sadness doesn't need a clear reason. It's still real and valid.,-1
+91,2,User,Everything feels grey lately. Nothing interests me.,2
+91,3,Bot,That emotional numbness is really painful. How long have you been feeling this way?,-1
+91,4,User,"I'm here but I'm not really here, if that makes sense.",2
+91,5,Bot,That detachment makes complete sense. You deserve real support right now.,-1
+91,6,User,I wake up already exhausted. There's no reason to feel this tired.,2
+91,7,Bot,That kind of fatigue that sleep doesn't fix is worth paying attention to.,-1
+92,0,User,I keep replaying old mistakes. I can't let them go.,2
+92,1,Bot,"Rumination is cruel and tiring. Those events are in the past, even if your mind keeps visiting them.",-1
+92,2,User,I've been thinking a lot about how much of a burden I am.,2
+92,3,Bot,"You are not a burden. Those thoughts can be really convincing, but they aren't facts.",-1
+92,4,User,I've been crying and I'm not even sure why.,2
+92,5,Bot,Sometimes sadness doesn't need a clear reason. It's still real and valid.,-1
+92,6,User,Getting through a single day feels like an enormous effort.,2
+92,7,Bot,"When each day feels like climbing a mountain, even showing up takes real courage.",-1
+93,0,User,"I'm here but I'm not really here, if that makes sense.",2
+93,1,Bot,That detachment makes complete sense. You deserve real support right now.,-1
+93,2,User,I barely ate today. Food just doesn't appeal to me.,2
+93,3,Bot,Appetite changes are really common with low mood. Can you manage something small?,-1
+93,4,User,I keep replaying old mistakes. I can't let them go.,2
+93,5,Bot,"Rumination is cruel and tiring. Those events are in the past, even if your mind keeps visiting them.",-1
+93,6,User,I used to love painting but I haven't touched it in months.,2
+93,7,Bot,Losing interest in things you loved is really hard. No pressure — it can return.,-1
+94,0,User,I used to love painting but I haven't touched it in months.,2
+94,1,Bot,Losing interest in things you loved is really hard. No pressure — it can return.,-1
+94,2,User,Getting through a single day feels like an enormous effort.,2
+94,3,Bot,"When each day feels like climbing a mountain, even showing up takes real courage.",-1
+94,4,User,I don't really see the point in getting out of bed anymore.,2
+94,5,Bot,I hear you. That kind of heaviness is really difficult. Would you like to talk about it?,-1
+94,6,User,"I'm here but I'm not really here, if that makes sense.",2
+94,7,Bot,That detachment makes complete sense. You deserve real support right now.,-1
+95,0,User,"I don't enjoy anything anymore, even things that used to excite me.",2
+95,1,Bot,Anhedonia — losing the ability to feel pleasure — is one of the harder symptoms.,-1
+95,2,User,Getting through a single day feels like an enormous effort.,2
+95,3,Bot,"When each day feels like climbing a mountain, even showing up takes real courage.",-1
+95,4,User,I keep replaying old mistakes. I can't let them go.,2
+95,5,Bot,"Rumination is cruel and tiring. Those events are in the past, even if your mind keeps visiting them.",-1
+95,6,User,I feel completely disconnected from the people around me.,2
+95,7,Bot,That sense of disconnection is really lonely. Have you been able to share this with anyone?,-1
+96,0,User,I used to love painting but I haven't touched it in months.,2
+96,1,Bot,Losing interest in things you loved is really hard. No pressure — it can return.,-1
+96,2,User,I've been thinking a lot about how much of a burden I am.,2
+96,3,Bot,"You are not a burden. Those thoughts can be really convincing, but they aren't facts.",-1
+96,4,User,I feel invisible. Like I could disappear and nobody would notice.,2
+96,5,Bot,"That feeling of invisibility is painful. I notice you, and I'm glad you're talking.",-1
+96,6,User,Everything feels grey lately. Nothing interests me.,2
+96,7,Bot,That emotional numbness is really painful. How long have you been feeling this way?,-1
+97,0,User,Everything I try seems to fail. Maybe I'm just not good enough.,2
+97,1,Bot,"Depression distorts our view of ourselves. Those thoughts are symptoms, not facts.",-1
+97,2,User,I keep replaying old mistakes. I can't let them go.,2
+97,3,Bot,"Rumination is cruel and tiring. Those events are in the past, even if your mind keeps visiting them.",-1
+97,4,User,I wake up already exhausted. There's no reason to feel this tired.,2
+97,5,Bot,That kind of fatigue that sleep doesn't fix is worth paying attention to.,-1
+97,6,User,I haven't responded to messages in days. I don't have the energy.,2
+97,7,Bot,Low energy for social interaction is very common with depression. No judgement here.,-1
+98,0,User,I've been crying and I'm not even sure why.,2
+98,1,Bot,Sometimes sadness doesn't need a clear reason. It's still real and valid.,-1
+98,2,User,Some days I feel like things will never get better.,2
+98,3,Bot,I'm glad you said that out loud. It's important to have support when you're feeling that way.,-1
+98,4,User,I keep replaying old mistakes. I can't let them go.,2
+98,5,Bot,"Rumination is cruel and tiring. Those events are in the past, even if your mind keeps visiting them.",-1
+98,6,User,I feel like a hollow shell of who I used to be.,2
+98,7,Bot,That loss of self is one of the most painful parts. But the person you were is still there.,-1
+99,0,User,I don't really see the point in getting out of bed anymore.,2
+99,1,Bot,I hear you. That kind of heaviness is really difficult. Would you like to talk about it?,-1
+99,2,User,I wake up already exhausted. There's no reason to feel this tired.,2
+99,3,Bot,That kind of fatigue that sleep doesn't fix is worth paying attention to.,-1
+99,4,User,I feel invisible. Like I could disappear and nobody would notice.,2
+99,5,Bot,"That feeling of invisibility is painful. I notice you, and I'm glad you're talking.",-1
+99,6,User,"I don't enjoy anything anymore, even things that used to excite me.",2
+99,7,Bot,Anhedonia — losing the ability to feel pleasure — is one of the harder symptoms.,-1
+100,0,User,I feel completely disconnected from the people around me.,2
+100,1,Bot,That sense of disconnection is really lonely. Have you been able to share this with anyone?,-1
+100,2,User,I cancelled on my friends again. I just couldn't face it.,2
+100,3,Bot,Isolation can make things feel heavier. It's okay — is there one small step you could take?,-1
+100,4,User,"I'm here but I'm not really here, if that makes sense.",2
+100,5,Bot,That detachment makes complete sense. You deserve real support right now.,-1
+100,6,User,I've been crying and I'm not even sure why.,2
+100,7,Bot,Sometimes sadness doesn't need a clear reason. It's still real and valid.,-1
+101,0,User,I've lost a lot of weight without trying. I just forget to eat.,2
+101,1,Bot,Significant unintended weight loss is something worth mentioning to a doctor.,-1
+101,2,User,I feel invisible. Like I could disappear and nobody would notice.,2
+101,3,Bot,"That feeling of invisibility is painful. I notice you, and I'm glad you're talking.",-1
+101,4,User,I feel like a hollow shell of who I used to be.,2
+101,5,Bot,That loss of self is one of the most painful parts. But the person you were is still there.,-1
+101,6,User,"I don't enjoy anything anymore, even things that used to excite me.",2
+101,7,Bot,Anhedonia — losing the ability to feel pleasure — is one of the harder symptoms.,-1
+102,0,User,I don't really see the point in getting out of bed anymore.,2
+102,1,Bot,I hear you. That kind of heaviness is really difficult. Would you like to talk about it?,-1
+102,2,User,I've been thinking a lot about how much of a burden I am.,2
+102,3,Bot,"You are not a burden. Those thoughts can be really convincing, but they aren't facts.",-1
+102,4,User,I feel completely disconnected from the people around me.,2
+102,5,Bot,That sense of disconnection is really lonely. Have you been able to share this with anyone?,-1
+102,6,User,I used to love painting but I haven't touched it in months.,2
+102,7,Bot,Losing interest in things you loved is really hard. No pressure — it can return.,-1
+103,0,User,I don't see a future for myself.,2
+103,1,Bot,"When the future looks blank, it can be frightening. Please consider reaching out to a counsellor.",-1
+103,2,User,I feel completely disconnected from the people around me.,2
+103,3,Bot,That sense of disconnection is really lonely. Have you been able to share this with anyone?,-1
+103,4,User,Everything feels grey lately. Nothing interests me.,2
+103,5,Bot,That emotional numbness is really painful. How long have you been feeling this way?,-1
+103,6,User,I've been thinking a lot about how much of a burden I am.,2
+103,7,Bot,"You are not a burden. Those thoughts can be really convincing, but they aren't facts.",-1
+104,0,User,"I'm here but I'm not really here, if that makes sense.",2
+104,1,Bot,That detachment makes complete sense. You deserve real support right now.,-1
+104,2,User,Getting through a single day feels like an enormous effort.,2
+104,3,Bot,"When each day feels like climbing a mountain, even showing up takes real courage.",-1
+104,4,User,I've been crying and I'm not even sure why.,2
+104,5,Bot,Sometimes sadness doesn't need a clear reason. It's still real and valid.,-1
+104,6,User,"I don't enjoy anything anymore, even things that used to excite me.",2
+104,7,Bot,Anhedonia — losing the ability to feel pleasure — is one of the harder symptoms.,-1
